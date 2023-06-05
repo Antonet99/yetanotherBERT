@@ -1,0 +1,26 @@
+[
+  {
+    "epoch": 1,
+    "Training Loss": 0.3748879829371969,
+    "Valid. Loss": 0.2687400528937578,
+    "Valid. Accur.": 0.8905,
+    "Training Time": "0:18:22",
+    "Validation Time": "0:02:18"
+  },
+  {
+    "epoch": 2,
+    "Training Loss": 0.18997151690535247,
+    "Valid. Loss": 0.3405508329812437,
+    "Valid. Accur.": 0.9015,
+    "Training Time": "0:18:34",
+    "Validation Time": "0:02:22"
+  },
+  {
+    "epoch": 3,
+    "Training Loss": 0.10446332426276057,
+    "Valid. Loss": 0.4042823068704456,
+    "Valid. Accur.": 0.905,
+    "Training Time": "0:18:37",
+    "Validation Time": "0:02:17"
+  }
+]
